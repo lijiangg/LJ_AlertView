@@ -6,6 +6,7 @@ typedef enum : NSUInteger {
     UIAlertViewActionCancel,
     UIAlertViewActionDefault
 } UIAlertViewActionStyle;
+
 目前支持这两种样式  
 第一种是点击取消
 第二种可以自定义点击事件
