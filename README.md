@@ -14,3 +14,6 @@ typedef enum : NSUInteger {
 第二种可以自定义点击事件
 
 添加按钮数量不限制 
+
+觉得有用请点❤  
+    
